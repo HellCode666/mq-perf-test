@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "Windows Subsystem for Linux": {
+      "path": "C:\\Windows\\System32\\wsl.exe",
+      "args": []
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Windows Subsystem for Linux"
+}
